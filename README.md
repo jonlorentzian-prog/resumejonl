@@ -1,7 +1,7 @@
 # Jon Lorentzian
 ### Software Engineer / Developer
 
-[🌐 Portfolio Website](https://github.io) | [📧 Email](mailto:your.email@example.com) | [💼 LinkedIn](https://linkedin.com) | [📱 Phone](tel:+1234567890)
+[🌐 Portfolio Website](https://github.io) | [📧 Email](mailto:your.email@example.com) | | [📱 Phone](tel:+1234567890)
 
 ---
 
